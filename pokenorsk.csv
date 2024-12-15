@@ -1,31 +1,52 @@
 question,option2,option2,option3,correctIndex
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
-Hva er riktig bestemt form av en katt,katter,katten,kattene,2
+Kva er riktig nynorsk form av 'jeg'?,eg,jeg,ei,1
+Kva er riktig nynorsk form av 'ikke'?,ikkje,ikke,ikkje ikkje,1
+Kva er riktig fleirtalsform (ubestemt fleirtal) av 'ein gut'?,gutar,gutarar,guter,1
+Kva er det riktige pronomenet for 'dere' på nynorsk i subjektform?,de,dykk,dokke,1
+Kva er korrekt nynorsk form for 'å skrive' i presens (1. person eintal)?,eg skriv,eg skriver,eg skrive,1
+Kva er korrekt nynorsk omsetjing av 'hva'?,kva,kva for,hva,1
+Kva for ein artikkel høyrer til hokjønn i eintal ubestemt form?,ein,ei,eit,2
+Kva er riktig samsvarsbøying for adjektivet 'gul' i fleirtal bestemt form?,dei gule bilane,dei gula bilane,dei gulane bilar,1
+Kva er rett presensform av 'å vere' for 3. person eintal?,han er,han vere,han vart,1
+Kva er riktig nynorsk form av 'denne jenta' i bestemt eintal?,den jenta,jenta,den jenta der,2
+Kva er riktig preteritumsform av verbet 'å kome'?,kom,koma,komte,1
+Kva er riktig partisippform av verbet 'å skrive' i perfektum?,skrive,skrivee,skrivei,1
+Kva er rett nynorsk pronomen for 'hun'?,ho,hun,henne,1
+Kva er riktig omsetjing av 'hvorfor' til nynorsk?,kvifor,koffer,korfor,1
+Kva er riktig presensform av 'å gjere' (1. person eintal)?,eg gjer,eg gjør,eg gjere,1
+Kva er riktig presensform av 'å bu' (3. person eintal)?,han bur,han bær,han buar,1
+Kva artikkel høyrer til inkjekjønn eintal ubestemt form?,ein,ei,eit,3
+Kva er rett nynorsk form av 'oss' i objektsform?,oss,vi,dykk,1
+Kva er rett skriveform i nynorsk: 'no' eller 'nå'?,no,nå,no',1
+Kva er rett omsetjing av bokmål 'hvilken' til nynorsk?,kva for ein,kva ein,kven ein,1
+Korleis blir infinitiv oftast avslutta i nynorsk?, -e, -a, -ing,1
+Kva er rett futurum av 'å kome' (1. person eintal)?,eg skal kome,eg vil kome,eg kjem til kome,1
+Kva er riktig objektsform for 'dere' på nynorsk?,dykk,de,dokka,1
+Kva er riktig preposisjon på nynorsk for bokmål 'i forhold til'?,i høve til,i forhold til,med omsyn til,1
+Kva er riktig ord for bokmål 'ikke noe'?,ikkje noko,ikkje noe,ikkje no,1
+Kva er riktig bøying av 'å vere' i presens?,eg er, du er, han er,eg vere, du verar, han verar,eg er, du er, han var,1
+Kva er rett skriveform av 'eg vil ikke gå'?,eg vil ikkje gå,eg vil ikkje gåa,eg vil ikkje går,1
+Kva er rett form av 'eit hus' i bestemt eintal?,huset,husa,husi,1
+Kva er riktig fleirtalsform (ubestemt) av 'ei bok'?,bøker,bøkerar,bøkerer,1
+Kva er rett perfektum partisipp av 'å ete'?,har ete,har eteet,har etet,1
+Kva er rett form av 'kvelden' i ubestemt eintal?,ein kveld,ei kveld,eit kveld,1
+Kva er rett nynorsk form for 'hvordan'?,korleis,korleise,kordan,1
+Kva er riktig samsvarsbøying av adjektivet 'stor' i hankjønn eintal ubestemt?,ein stor bil,ein stort bil,ein store bil,1
+Kva er riktig samsvarsbøying av adjektivet 'fin' i hokjønn eintal?,ei fin bok,ei fint bok,ei fine bok,1
+Kva er riktig perfektum av 'å drikke'?,har drukke,har drakk,har drukkje,1
+Kva er riktig presensform av 'å tenke' (1. person eintal)?,eg tenkjer,eg tenker,eg tenk,1
+Kva er riktig omsetjing av bokmål 'mens' til nynorsk?,medan,mend,mens,1
+Kva er rett form av pronomenet 'den' når det viser til hankjønn?,den,det,dei,1
+Kva er riktig presensform av 'å prøve' (3. person eintal)?,han prøvar,han prøver,han prøve,1
+Kva er riktig presensform av 'å kaste' (1. person eintal)?,eg kastar,eg kaster,eg kaste,1
+Kva er riktig pronomen for 1. person fleirtal i subjektform?,me,vi,oss,1
+Kva er riktig perfektum partisipp av 'å finne'?,har funne,har fant,har finnes,1
+Kva er riktig form av inkjekjønnsord i bestemt eintal (t.d. 'eit hus')?,huset,husa,husen,1
+Kva er riktig presens av 'å lese' (2. person eintal)?,du les,du leser,du lese,1
+Kva er riktig presensform av 'å fortelje' (3. person eintal)?,han fortel,han forteller,han fortal,1
+Kva er riktig nynorsk pronomen for 'henne' (objektsform)?,henne,ho,henne henne,2
+Kva er rett perfektum partisipp av 'å sjå'?,har sett,har sjått,har sjåa,1
+Kva er riktig bøying av adjektivet 'lita' i hokjønn eintal?,ei lita jente,ei lite jente,ei liten jente,1
+Kva er rett form for genitiv i nynorsk?,Bruke preposisjonen 'til' framfor substantivet,Legge til -s på slutten av substantivet,Bruke apostrof og s,1
+Kva er riktig omsetjing av bokmål 'noen' til nynorsk (ubestemt pronomen)?,nokon,noen,noken,1
+
